@@ -11,5 +11,5 @@ Projeto simples em Python para gerenciar cadastro, consulta e remoção de usuá
 - 
 ## Autor
 
-- linkedin: [Perfil](https://www.linkedin.com/in/eduardo-palermo-dos-santos-a73525357/)
+- linkedin: [Eduardo Palermo](https://www.linkedin.com/in/eduardo-palermo-dos-santos-a73525357/)
 - Email: [eduardo27030733@gmail.com](mailto:eduardo27030733@gmail.com)
